@@ -5,7 +5,7 @@
 ## Materiales: 
 - ESP32-S3
 - Placa RFID
-- Dispositivo con conexion NFC
+- Dispositivo con conexion NFC<br>
 **Librerias:**
 ```ini
     lib_deps =
